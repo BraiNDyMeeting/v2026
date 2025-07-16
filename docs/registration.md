@@ -22,3 +22,14 @@ If you have any special requirements, including the need for crèche services or
 
 Those interested in presenting a poster should submit the poster title when completing the registration form and, if selected, submit the full abstract by November 30.
 </p>
+
+<div align="center" class="example1">
+<table>
+<tr >
+<td><a href="registration/">[Registration]</a></td>
+<td><a href="schedule/">[Schedule]</a></td>
+<td><a href="speakers/">[Speakers]</a></td>
+<td><a href="Team/">[Team]</a></td>
+</tr>
+</table>
+</div>

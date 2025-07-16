@@ -7,6 +7,8 @@ theme:
   palette:
    primary: blue-grey
 
+extra_css:
+  - stylesheets/extra.css
 nav:
 - About: index.md
 - Registration Details: registration.md

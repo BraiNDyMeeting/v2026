@@ -17,3 +17,14 @@
 | Venue | Speaker | Title |
 | ---   | ---     | ---   |
 | Hall 1 | Prof Bruce Banner | The Big Beautiful Brain | 
+
+<div align="center" class="example1">
+<table>
+<tr >
+<td><a href="registration/">[Registration]</a></td>
+<td><a href="schedule/">[Schedule]</a></td>
+<td><a href="speakers/">[Speakers]</a></td>
+<td><a href="Team/">[Team]</a></td>
+</tr>
+</table>
+</div>
