@@ -1,11 +1,11 @@
-site_name: Brain Network Dynamics (BraiNDy) 2026
+site_name: BraiNDy 2026
 site_url: https://braindymeeting.github.io/v2026/
 copyright: Created by Dhrubajyoti Biswas
 
 theme:
   name: material
   palette:
-   primary: blue-grey
+   primary: black
 
 extra_css:
   - stylesheets/extra.css
@@ -15,3 +15,4 @@ nav:
 - Schedule: schedule.md
 - Invited Speakers: speakers.md
 - Organizing Team: Team.md
+- Previous Editions: previous.md
