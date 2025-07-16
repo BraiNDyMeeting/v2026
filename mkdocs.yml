@@ -7,7 +7,7 @@ theme:
 
 nav:
 - About: index.md
-- Registration Deatils: registration.md
+- Registration Details: registration.md
 - Conference Schedule: schedule.md
 - Invited Speakers: speakers.md
 - Organizing Team: Team.md
