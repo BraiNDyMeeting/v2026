@@ -1,4 +1,4 @@
-# Registration
+# Registration Details
 
 <p align="justify">
 We have a limited number of participant slots for the event, allowing selected attendees to present their work in poster sessions and engage with speakers and fellow participants, which is the primary focus of our meeting.<br><br>
