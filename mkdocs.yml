@@ -1,0 +1,13 @@
+site_name: Brain Network Dynamics (BraiNDy) 2026
+site_url: https://braindymeeting.github.io/v2026/
+copyright: Copyright &copy; 2025 Dhrubajyoti Biswas
+
+theme:
+  name: material
+
+nav:
+- About: index.md
+- Registration: registration.md
+- Schedule: schedule.md
+- Speakers: speakers.md
+- Team: Team.md
