@@ -4,10 +4,12 @@ copyright: Created by Dhrubajyoti Biswas
 
 theme:
   name: material
+  palette:
+   primary: blue-grey
 
 nav:
 - About: index.md
 - Registration Details: registration.md
-- Conference Schedule: schedule.md
+- Schedule: schedule.md
 - Invited Speakers: speakers.md
 - Organizing Team: Team.md

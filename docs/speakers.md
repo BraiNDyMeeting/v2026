@@ -1,9 +1,9 @@
 # Invited Speakers
 
-| Speaker | Title | Abstract/Details |
-| --------|-------|------------------|
-| Prof. Steve Rogers | A brilliant talk on a brilliant topic-1 | Lorem markdownum Cereris unda. Mihi citra tam uno meliora et refert numina continuam planxere avis Cyllenaeo caudas. Medullis stamine inmitem crimina tempora Surrentino laniatque medios admoto, imagine ipse ortus mollescit Priamusque formosa. Cephesidas adibat suos oscula tulit caede, sensisse, habet tibi Ichnobates, cum? |
-| Prof. Steve Rogers | A brilliant talk on a brilliant topic-1 | Lorem markdownum Cereris unda. Mihi citra tam uno meliora et refert numina continuam planxere avis Cyllenaeo caudas. Medullis stamine inmitem crimina tempora Surrentino laniatque medios admoto, imagine ipse ortus mollescit Priamusque formosa. Cephesidas adibat suos oscula tulit caede, sensisse, habet tibi Ichnobates, cum? |
-| Prof. Steve Rogers | A brilliant talk on a brilliant topic-1 | Lorem markdownum Cereris unda. Mihi citra tam uno meliora et refert numina continuam planxere avis Cyllenaeo caudas. Medullis stamine inmitem crimina tempora Surrentino laniatque medios admoto, imagine ipse ortus mollescit Priamusque formosa. Cephesidas adibat suos oscula tulit caede, sensisse, habet tibi Ichnobates, cum? |
-| Prof. Steve Rogers | A brilliant talk on a brilliant topic-1 | Lorem markdownum Cereris unda. Mihi citra tam uno meliora et refert numina continuam planxere avis Cyllenaeo caudas. Medullis stamine inmitem crimina tempora Surrentino laniatque medios admoto, imagine ipse ortus mollescit Priamusque formosa. Cephesidas adibat suos oscula tulit caede, sensisse, habet tibi Ichnobates, cum? |
-| Prof. Steve Rogers | A brilliant talk on a brilliant topic-1 | Lorem markdownum Cereris unda. Mihi citra tam uno meliora et refert numina continuam planxere avis Cyllenaeo caudas. Medullis stamine inmitem crimina tempora Surrentino laniatque medios admoto, imagine ipse ortus mollescit Priamusque formosa. Cephesidas adibat suos oscula tulit caede, sensisse, habet tibi Ichnobates, cum? |
+| Speaker | Affiliation |
+| --------|------------------|
+| Prof. Steve Rogers | University of Avengers |
+| Prof. Steve Rogers | University of Avengers |
+| Prof. Steve Rogers | University of Avengers |
+| Prof. Steve Rogers | University of Avengers |
+| Prof. Steve Rogers | University of Avengers |
