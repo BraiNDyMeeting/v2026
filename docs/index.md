@@ -2,6 +2,7 @@
 
 <p align="justify">
 
+<img src="img/Udaipur.jpg" width=2500><br><br>
 Join us for the 2nd edition of the Brain Network Dynamics Meeting (BraiNDy 2026) at Udaipur from December 14-15, 2024. This annual event aims to foster the exchange of ideas and collaboration in the emerging field of brain dynamics, which encompasses dynamical systems, neuroscience, and related topics, utilizing both theoretical and empirical approaches.<br><br>
 
 
