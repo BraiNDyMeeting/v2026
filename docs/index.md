@@ -1,5 +1,3 @@
-# About
-
 <p align="justify">
 
 <img src="img/Udaipur.jpg" width=2500><br><br>
