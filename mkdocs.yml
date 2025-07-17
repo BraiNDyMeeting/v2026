@@ -4,6 +4,8 @@ copyright: Created by Dhrubajyoti Biswas
 
 theme:
   name: material
+  logo: img/logo.ico
+  favicon: img/logo.ico
   palette:
    primary: black
 
