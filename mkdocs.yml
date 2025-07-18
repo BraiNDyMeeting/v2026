@@ -1,6 +1,6 @@
 site_name: BraiNDy 2026
 site_url: https://braindymeeting.github.io/v2026/
-copyright: Created by Dhrubajyoti Biswas
+copyright: Website created by <a href="https://dhrubajyoti98.github.io/" style="color:white;">Dhrubajyoti Biswas</a>.
 
 theme:
   name: material
@@ -13,7 +13,7 @@ extra_css:
   - stylesheets/extra.css
 nav:
 - About: index.md
-- Registration Details: registration.md
+- Registration: registration.md
 - Schedule: schedule.md
 - Invited Speakers: speakers.md
 - Organizing Team: Team.md

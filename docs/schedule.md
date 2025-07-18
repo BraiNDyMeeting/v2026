@@ -1,14 +1,14 @@
 # Schedule
 
-<b> Day 1, January 7, 2026</b>
+## Day 1: January 7, 2026
 
 TBA.
 
-<b> Day 2, January 8, 2026</b>
+## Day 2: January 8, 2026
 
 TBA.
 
-<b> Day 3, January 9, 2026</b>
+## Day 3: January 9, 2026
 
 TBA.
 
