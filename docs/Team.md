@@ -1,4 +1,4 @@
-# Organizing Team
+# Organizers
 
 - Prof. Arpan Banerjee, NBRC Gurgaon
 - Prof. Dipanjan Roy, IIT Jodhpur
