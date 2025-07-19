@@ -20,7 +20,3 @@ The event will provide an informal setting, encouraging close interaction among 
 
 
 If you have any queries, please reach out to us at <a href="mailto:braindy.meeting@gmail.com">braindy.meeting@gmail.com</a>.
-
-
-<a href='http://www.freevisitorcounters.com'>Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=06baa3d8eae5e64d26fc02c575f4d5dcc59f43b8'></script>
-<script type="text/javascript" src="https://freevisitorcounters.com/en/home/counter/1367060/t/9"></script>
