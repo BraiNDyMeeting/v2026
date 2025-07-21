@@ -7,11 +7,11 @@ We have a limited number of participant slots for the event, allowing selected a
 <b>Registration charges</b> for the event are as follows: 
 
 <ul>
-<li>  INR 15,000 (+GST), on single occupancy.</li>
+<li>  INR 17,040 (+GST), on single occupancy.</li>
 
-<li> INR 9,000 (+GST), on double occupancy.</li>
+<li> INR 10,320 (+GST), on double occupancy.</li>
 
-<li> INR 7,600 (+GST), on triple occupancy.</li>
+<li> INR 8,750 (+GST), on triple occupancy.</li>
 </ul>
 
 This includes the stay for 7th and 8th January 2026 as well as breakfast, lunch, snacks, and dinner.
