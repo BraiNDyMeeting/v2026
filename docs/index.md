@@ -8,7 +8,7 @@ Join us for the 2nd edition of the Brain Network Dynamics Meeting (BraiNDy 2026)
 
 <p align="justify">
 The event will provide an informal setting, encouraging close interaction among researchers. We also welcome a limited number of participants who can register to attend and present their work in poster sessions.  This is an excellent opportunity for young researchers from various disciplines interested in brain dynamics to engage with established experts, share ideas, and explore potential collaborations.</p>
-<marquee direction="left" scrollamount="15" style="color: red;">Registrations will begin soon!</marquee>
+<marquee direction="left" scrollamount="15" style="color: red;">Registration and submissions will begin soon.</marquee>
 
 ## Venue
 
