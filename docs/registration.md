@@ -1,43 +1,53 @@
 # Registration
 
-<p align="justify">
-We have a limited number of participant slots for the event, allowing selected attendees to present their work in poster sessions and engage with speakers and fellow participants, which is the primary focus of our meeting.</p>
+Please go through this whole page carefully **before** registration and payment. 
 
-__Link to Google Form for abstract and payment confirmation submission__: Coming soon.
 
 ## Charges
-The charges for the event are as follows: 
 
-<ul>
-<li>INR 17,040 on single occupancy.</li>
-<li>INR 10,320 on double occupancy.</li>
-<li>INR 8,750 on triple occupancy.</li>
-</ul>
+<p align="justify">We need to charge a <b>nominal</b> amount of registration fee (considering the location and time) from every participant to cover for the organizational costs. 
+Therefore, <b>before</b> filling out the registration form below, please complete the payment of the registration fees following the information below:</p>
 
-<p align="justify">
-These charges are inclusive of GST. It includes the stay for 7th and 8th January 2026, as well as the breakfast, lunch, snacks, and dinner for all days of the conference.
-</p>
-
-### Payment Details
-
-- Payment Link using Credit/Debit Cards - VISA/MASTER CARD/RUPAY: [https://www.sinclairshotels.com/ipay/](https://www.sinclairshotels.com/ipay/)
-
-- Details for wire transfers from international bank accounts:
-  
-| Details      | Information              |
-|--------------|--------------------------|
-| Account Name | SINCLAIRS HOTELS LIMITED |
-| Bank Name    | ICICI BANK LIMITED       |
-| Address      | 20, RASOI COURT, R.N. MUKHERJEE ROAD, KOLKATA |
-| SWIFT Code   | ICICINBB006                                   |
-| A/C No.      | 000605019305                                  |
-| NEFT/RTGS (IFSC CODE) | ICIC0000006                          |
-| Account Type          | CURRENT                              |
-| MICR No.              | 700229002                            |
-
-- Payment Details (UPI/NEFT/RTGS etc): ![Payment Information](img/payment.png)
-
+| Accomodation Type | Early registration (till Sep. 30, 2025) | Standard registration (till Nov. 15, 2025) |
+| --------- | ----------------------- | --------------------- |
+| Single occupancy | INR 17,040 | INR 20,040 |
+| Double occupancy | INR 10,320 | INR 12,820 |
+| Triple occupancy | INR 8,750  | INR 10,750 |
 
 <p align="justify">
-If you have any queries, please reach out to us at <a href="mailto:braindy.meeting@gmail.com">braindy.meeting@gmail.com</a>.
-</p>
+These charges are inclusive of all charges and includes the stay at the Sinclairs Palace Retreat (with Wi-Fi and pool access!) for 7th and 8th January 2026. It also includes the Welcome-Kit, Breakfast, Lunch, Snacks, and Dinner for all days of the conference.</p>
+
+
+
+## Payment
+
+<p align="justify">Please pay the necessary charges using one of the methods listed below. Furthermore, please <b>download a copy of the invoice</b> and <b>make a note of the Transaction ID</b>.</p>
+
+![Payment Information](img/payment.png)
+
+- <p align="justify">For wire transfers from international bank accounts, <b>please use the details of the "ICICI Bank Ltd" given in the picture above</b>, with <b>SWIFT Code: ICICINBB006</b> and <b>MICR Number: 700229002</b>.</p>
+
+
+
+## Link for Registration
+
+If you have completed the payment of the charges as applicable, <b>register</b> for the meeting via the link <a href="https://forms.gle/cwRe8krcXUXHtmAW6">here</a>.
+
+## Posters
+
+<p align="justify">
+We will have a dedicated time-slot for attendees to present their own <b>original</b> work as a poster. Therefore, if you are interested, please submit your abstract <a href="https://forms.gle/Wy2VPg1PD9st4RkN8">here</a> for consideration.</p>
+
+
+
+- <p align="justify">Deadline for poster abstract submission: <b>September 30, 2025</b>.</p>
+- <p align="justify">You <b>must be registered</b> (see above) for your abstract to be considered.</p>
+- <p align="justify">We will verify your submission and send out notifications **after** September 30, 2025. We will **not** base our decisions based on the scientific novelty/merit of your work - that will be left to the community and participants of the meeting.</p> 
+- <p align="justify">However, we <b>expect</b> that you will follow these <a href="https://drive.google.com/file/d/1fFk6OEFuXgJRLDz72eacgwfzeuSJWkSo/view?usp=sharing">instructions</a> for preparing the abstract since we aim to release a <b>Book of Abstracts</b> during the meeting.</p>
+- <p align="justify">The LaTeX source files for preparing the abstract is available <a href="https://drive.google.com/file/d/1IpT1Q0632B4eXZSriJKq-jnQfbIpUGz9/view?usp=sharing">here</a>. While not recommended, if you do not wish to use LaTeX, please try and adhere to the styling format using the software/tool of your choice.
+- <p align="justify">We aim to accomodate <b>all</b> abstracts submitted to us which are prepared following the provided instructions. However, in the unlikely scenario where we have to reject an abstract for content/formatting issues, please note that we <b>cannot</b> refund your registration fees. In such cases, you are welcome to attend the meeting without presenting any poster.</p>
+
+
+
+
+

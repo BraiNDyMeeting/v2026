@@ -10,6 +10,7 @@
 - Arpan Banerjee, NBRC Gurgaon
 - Dhrubajyoti Biswas, NBRC Gurgaon
 - Vinitha P V, NBRC Gurgaon
+- Vinsea A V Singh, NBRC Gurgaon
 - Dipanjan Roy, IIT Jodhpur
 - Shreya Deb, IIT Jodhpur
 - Jeet Agnihotri, IIT Jodhpur
