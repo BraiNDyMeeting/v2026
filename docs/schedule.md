@@ -16,3 +16,5 @@ TBA.
 ## Day 3: January 9, 2026
 
 TBA.
+
+

@@ -15,8 +15,9 @@ Therefore, <b>before</b> filling out the registration form below, please complet
 | Triple occupancy | INR 8,750  | INR 10,750 |
 
 <p align="justify">
-The registration fee is <b>inclusive of all charges</b> and includes the stay at the Sinclairs Palace Retreat (with Wi-Fi and pool access!) for 7th and 8th January 2026. It also includes the Welcome-Kit, Breakfast, Lunch, Snacks, and Dinner for all days of the meeting.</p>
+<b>Note 1</b>: The registration fee is <b>inclusive of all charges</b> and includes the stay at the Sinclairs Palace Retreat (with Wi-Fi and pool access!) for 7th and 8th January 2026. It also includes the Welcome-Kit, Breakfast, Lunch, Snacks, and Dinner for all days of the meeting.</p>
 
+<p align="justify"><b>Note 2</b>: There is provision for a longer period of stay, subject to availability, beyond the conference dates at these rates. Please contact the event organizers from Sinclair Hotels directly with any such requests.</p>
 
 
 ## Payment
