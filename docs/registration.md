@@ -8,17 +8,17 @@ Please go through this whole page carefully **before** registration and payment.
 <p align="justify">We need to charge a <b>nominal</b> amount of registration fee (considering the location and time) from every participant to cover for the organizational costs. 
 Therefore, <b>before</b> filling out the registration form below, please complete the payment of the registration fees following the information below:</p>
 
-| Accomodation Type | Early registration (<ins>till Sep. 30, 2025</ins>) | Standard registration (<ins>till Nov. 15, 2025</ins>) |
+| Accomodation Type | Early registration* (<ins>till Sep. 30, 2025</ins>) | Standard registration* (<ins>till Nov. 15, 2025</ins>) |
 | --------- | ----------------------- | --------------------- |
 | Single occupancy | INR 17,040 / USD 200 | INR 20,040 / USD 230 |
 | Double occupancy | INR 10,320 / USD 120 | INR 12,820 / USD 150 |
 | Triple occupancy | INR 08,750 / USD 100 | INR 10,750 / USD 120 |
 
 <p align="justify">
-<b>Note 1</b>: The registration fee is <b>inclusive of all charges</b> and includes the stay at the Sinclairs Palace Retreat (with Wi-Fi and pool access!) for 7th and 8th January 2026. It also includes the Welcome-Kit, Breakfast, Lunch, Snacks, and Dinner for all days of the meeting.</p>
+*The registration fees will be charged to your account/card in INR. Thus, paying in other currencies may incur <b>additional charges</b> based on banking fees and conversion rates.</p>
 
 <p align="justify">
-<b>Note 2</b>: There is provision for a longer period of stay, subject to availability, beyond the conference dates at these rates. Please contact the event organizers from Sinclair Hotels directly with any such requests.</p>
+The registration fee is <b>inclusive of all charges</b> and includes the stay at the Sinclairs Palace Retreat (with Wi-Fi and pool access!) for 7th and 8th January 2026. It also includes the Welcome-Kit, Breakfast, Lunch, Snacks, and Dinner for all days of the meeting. Furthermore, there is provision for a longer period of stay, subject to availability, beyond the conference dates at these rates. Please contact the event organizers from Sinclair Hotels directly with any such requests.</p>
 
 
 ## Payment
