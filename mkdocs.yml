@@ -6,8 +6,24 @@ theme:
   name: material
   logo: img/logo.ico
   favicon: img/logo.ico
+  user_color_mode_toggle: light
+  nav_style: dark
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - header.autohide
+
   palette:
-   primary: black
+    primary: black
+    accent: red
+
+plugins:
+  - social
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 
 extra_css:
   - stylesheets/extra.css
