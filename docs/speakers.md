@@ -4,9 +4,10 @@
 | Name                     | Affiliation                                                       |
 | ------------------------ | ------------------------------------------------------------------|
 | Demian Battaglia         | University of Strasbourg                                          |
-| James Roberts            | Queensland Institute of Medical Research (QIMR), Brisbane         |
+| James Roberts            | Queensland Institute of Medical Research, Brisbane                |
 | Luiz Pessoa              | University of Maryland                                            |
 | Nandini Chatterjee Singh | Ashoka University                                                 |
+| Parul Verma              | Indian Institute of Technology Madras                             |
 | Pedro Valdes Sosa        | Cuban Neuroscience Center, Global Brain Consortium                |
 | Sitabhra Sinha           | Institute of Mathematical Sciences, Chennai                       |
 | Suman Saha               | Vellore Institute of Technology                                   |
