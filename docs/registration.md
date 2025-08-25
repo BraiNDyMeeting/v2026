@@ -22,11 +22,16 @@ The registration fee is <b>inclusive of all charges</b> and includes the stay at
 
 ## Payment
 
-<p align="justify">Please pay the necessary charges using one of the methods listed below. Furthermore, please <b>download a copy of the invoice</b> and <b>make a note of the Transaction ID</b>.</p>
 
-![Payment Information](img/payment.png)
 
-<p align="justify"><b>Note:</b> For wire transfers from international bank accounts, <b>please use the details of the "ICICI Bank Ltd" given in the picture above</b>, with <b>SWIFT Code: ICICINBB006</b> and <b>MICR Number: 700229002</b>.</p>
+
+
+<p align="justify">The online payment link is available here - <a href="https://www.sinclairshotels.com/ipay/">https://www.sinclairshotels.com/ipay/</a>. Please select <b>Sinclairs Palace Retreat Udaipur</b> while making the payment. If you want to use <b>UPI</b> or a <b>bank transfer</b>, please see the details available <a href="https://drive.google.com/file/d/1pEAguK1RtBRHBW_oRR0ENx2Hnp1t8BQS/view?usp=sharing">here</a>.</p>
+
+
+<p align="justify"><b>Note 1: </b>Please <b>download a copy of the invoice</b> and <b>make a note of the Transaction ID</b>.</p>
+
+<p align="justify"><b>Note 2:</b> For wire transfers from international bank accounts, <b>please use the details of the "ICICI Bank Ltd" given in the link above</b>, with <b>SWIFT Code: ICICINBB006</b> and <b>MICR Number: 700229002</b>.</p>
 
 
 
