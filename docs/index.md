@@ -20,6 +20,9 @@ The event will provide an informal setting, encouraging close interaction among 
 
 <p align="justify">There are several tourist attractions nearby. This includes <a href="https://en.wikipedia.org/wiki/Haldighati">Haldighati</a>, a narrow mountain pass, which is known for the famous Battle of Haldighati fought in 1576 between Maharana Pratap of Mewar and the Mughal army led by Man Singh. The pass, named after its turmeric-colored soil, stands as a symbol of Rajput valor and resistance.</p>
 
+<iframe width="820" height="445" src="https://www.youtube.com/embed/gnuyrls2Rwc">
+</iframe>
+
 ## Travel
 
 <p align="justify">
