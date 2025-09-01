@@ -9,6 +9,7 @@
 | Nandini Chatterjee Singh | Ashoka University                                                 |
 | Parul Verma              | Indian Institute of Technology Madras                             |
 | Pedro Valdes Sosa        | Cuban Neuroscience Center, Global Brain Consortium                |
+| Satu Palva               | Director of Neuroscience Center, University of Helsinki, Finland  |
 | Sitabhra Sinha           | Institute of Mathematical Sciences, Chennai                       |
 | Suman Saha               | Vellore Institute of Technology                                   |
 | Viktor Jirsa             | Institut de Neurosciences des Systèmes, Aix-Marseilles University |
