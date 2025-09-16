@@ -47,11 +47,15 @@ We will have a dedicated time-slot for attendees to present their own <b>origina
 
 
 - <p align="justify">Deadline for poster abstract submission: <b>September 30, 2025</b>.</p>
+
 - <p align="justify">You <b>must be registered</b> (see above) for your abstract to be considered.</p>
+
 - <p align="justify">We will verify your submission and send out notifications **after** September 30, 2025. We will **not** base our decisions on the scientific novelty/merit of your work - that will be left to the community and participants of the meeting.</p> 
-- <p align="justify">However, we <b>expect</b> that you will follow these <a href="https://drive.google.com/file/d/1fFk6OEFuXgJRLDz72eacgwfzeuSJWkSo/view?usp=sharing">instructions</a> for preparing the abstract since we aim to release a <b>Book of Abstracts</b> during the meeting.</p>
-- <p align="justify">The LaTeX source files for preparing the abstract is available <a href="https://drive.google.com/file/d/1IpT1Q0632B4eXZSriJKq-jnQfbIpUGz9/view?usp=sharing">here</a>. While not recommended, if you do not wish to use LaTeX, please try and adhere to the styling format using the software/tool of your choice.
-- <p align="justify">We aim to accomodate <b>all</b> abstracts submitted to us which are prepared following the provided instructions. However, in the unlikely scenario where we have to reject an abstract for content/formatting issues, please note that we <b>cannot</b> refund your registration fees. In such cases, you are welcome to attend the meeting without presenting any poster.</p>
+
+- <p align="justify"><b>We aim to accomodate all original abstracts submitted to us</b> . However, in the unlikely scenario where we have to reject an abstract for any issues, please note that <b>we cannot refund your registration fees</b>. In such cases, you are welcome to attend the meeting without presenting any poster.</p>
+
+- <p align="justify">Suggested formatting template is available <a href="https://drive.google.com/file/d/1IpT1Q0632B4eXZSriJKq-jnQfbIpUGz9/view?usp=sharing">here</a> and the guidelines are available <a href="https://drive.google.com/file/d/1fFk6OEFuXgJRLDz72eacgwfzeuSJWkSo/view?usp=sharing">here</a>.
+
 
 
 
