@@ -50,7 +50,7 @@ We will have a dedicated time-slot for attendees to present their own <b>origina
 
 - <p align="justify">You <b>must be registered</b> (see above) for your abstract to be considered.</p>
 
-- <p align="justify">We will verify your submission and send out notifications **after** September 30, 2025. We will **not** base our decisions on the scientific novelty/merit of your work - that will be left to the community and participants of the meeting.</p> 
+- <p align="justify">We will verify your submission and send out notifications **after** October 30, 2025. We will **not** base our decisions on the scientific novelty/merit of your work - that will be left to the community and participants of the meeting.</p> 
 
 - <p align="justify"><b>We aim to accomodate all original abstracts submitted to us</b> . However, in the unlikely scenario where we have to reject an abstract for any issues, please note that <b>we cannot refund your registration fees</b>. In such cases, you are welcome to attend the meeting without presenting any poster.</p>
 
