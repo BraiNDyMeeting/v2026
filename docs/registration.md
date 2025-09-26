@@ -46,7 +46,7 @@ We will have a dedicated time-slot for attendees to present their own <b>origina
 
 
 
-- <p align="justify">Deadline for poster abstract submission: <b>September 30, 2025</b>.</p>
+- <p align="justify">Deadline for poster abstract submission: <b>October 30, 2025</b>.</p>
 
 - <p align="justify">You <b>must be registered</b> (see above) for your abstract to be considered.</p>
 
