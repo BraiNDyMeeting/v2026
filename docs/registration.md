@@ -8,7 +8,7 @@ Please go through this whole page carefully **before** registration and payment.
 <p align="justify">We need to charge a <b>nominal</b> amount of registration fee (considering the location and time) from every participant to cover for the organizational costs. 
 Therefore, <b>before</b> filling out the registration form below, please complete the payment of the registration fees following the information below:</p>
 
-| Accomodation Type | Early registration* (<ins>till Sep. 30, 2025</ins>) | Standard registration* (<ins>till Nov. 15, 2025</ins>) |
+| Accomodation Type | Early registration* (<ins>till Oct. 15, 2025</ins>) | Standard registration* (<ins>till Nov. 30, 2025</ins>) |
 | --------- | ----------------------- | --------------------- |
 | Single occupancy | INR 17,040 / USD 200 | INR 20,040 / USD 230 |
 | Double occupancy | INR 10,320 / USD 120 | INR 12,820 / USD 150 |

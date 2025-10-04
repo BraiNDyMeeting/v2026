@@ -10,7 +10,7 @@ Join us for the 2nd edition of the <b>Brain Network Dynamics</b> (BraiNDy 2026) 
 
 <p align="justify">
 The event will provide an informal setting, encouraging close interaction among researchers. We also welcome a limited number of participants who can register to attend and present their work in poster sessions.  This is an excellent opportunity for young researchers from various disciplines interested in brain dynamics to engage with established experts, share ideas, and explore potential collaborations.</p>
-<marquee direction="left" scrollamount="15" style="color: red;">Early registrations and poster submissions open now! Deadline: September 30, 2025.</marquee>
+<marquee direction="left" scrollamount="15" style="color: red;">Early registrations and poster submissions open now! Deadline: Oct. 15, 2025.</marquee>
 
 ## Venue
 
