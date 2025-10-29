@@ -11,7 +11,6 @@
 | Pedro Valdes Sosa        | Cuban Neuroscience Center, Global Brain Consortium                                        |
 | Satu Palva               | Neuroscience Center, Helsinki Institute of Life Science, University of Helsinki           |
 | Sitabhra Sinha           | Institute of Mathematical Sciences, Chennai                                               |
-| Suman Saha               | Vellore Institute of Technology                                                           |
 | Viktor Jirsa             | Institut de Neurosciences des Systèmes, Aix-Marseilles University                         |
 | Xiao-Jing Wang           | New York University                                                                       |
 
