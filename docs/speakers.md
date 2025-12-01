@@ -13,5 +13,3 @@
 | Sitabhra Sinha           | Institute of Mathematical Sciences, Chennai                                               |
 | Viktor Jirsa             | Institut de Neurosciences des Systèmes, Aix-Marseilles University                         |
 | Xiao-Jing Wang           | New York University                                                                       |
-
-**Note**: List will be updated as we receive more confirmations.
