@@ -14,7 +14,6 @@ theme:
 
 nav:
 - About: index.md
-- Registration: registration.md
 - Schedule: schedule.md
 - Invited Speakers: speakers.md
 - Team: team.md
