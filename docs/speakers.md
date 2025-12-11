@@ -12,4 +12,3 @@
 | Satu Palva               | Neuroscience Center, Helsinki Institute of Life Science, University of Helsinki           |
 | Sitabhra Sinha           | Institute of Mathematical Sciences, Chennai                                               |
 | Viktor Jirsa             | Institut de Neurosciences des Systèmes, Aix-Marseilles University                         |
-| Xiao-Jing Wang           | New York University                                                                       |
