@@ -1,4 +1,9 @@
+<img src="img/Udaipurnew.jpg" width=900>
+
+
 # Registration
+
+
 
 Please go through this whole page carefully **before** registration and payment. 
 

@@ -2,7 +2,7 @@
 
 ## BraiNDy 2026
 
-<img src="img/Udaipur.jpg" width=900>
+<img src="img/Udaipurnew.jpg" width=900>
 <p align="justify">
 Join us for the 2nd edition of the <b>Brain Network Dynamics</b> (BraiNDy 2026) Meeting at Udaipur from January 7-9, 2026. This annual event aims to foster the exchange of ideas and collaboration in the emerging field of brain dynamics. The broad theme of this year's meeting is <b>"Using generative models to understand the Physics of brain and behavior"</b>, and includes topics along the lines of dynamical systems and computational neuroscience, utilizing both theoretical and empirical approaches. </p>
 
