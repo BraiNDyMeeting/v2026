@@ -44,7 +44,7 @@ The meeting starts on the evening of January 7, 2026. The hotel will start accep
 
 | Time           | Event                              |
 | ---            | ---                                |
-|                | * Session Chair: Beena Koshy**  |
+|                | *Session Chair: Beena Koshy*  |
 | 10:00 - 10:45  | Talk 10: **Luiz Pessoa**                    |
 | 10:45 - 11:30  | Talk 11: **Nandini C Singh**                |
 | 11:30 - 12:30  | Panel Discussion, Moderated by Srikanth Padmala | 
