@@ -7,7 +7,7 @@ The meeting starts on the evening of January 7, 2026. The hotel will start accep
 
 ## Day 1: January 7, 2026
 
-| Time          | Event                           |
+| Time          | Event<img width="441" height="1"> |                           |
 | ----          | ----                            |
 | 14:00 - 15:45 | Registration, Check-in, and High-Tea        |
 | 15:45 - 16:00 | Opening Comments                |
