@@ -7,7 +7,9 @@ The meeting starts on the evening of January 7, 2026. The hotel will start accep
 
 ## Day 1: January 7, 2026
 
-TBA.
+| Time | Event |
+| ---- | ----  |
+| Test | Test  |
 
 ## Day 2: January 8, 2026
 
