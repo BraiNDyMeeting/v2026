@@ -1,7 +1,7 @@
 # Schedule
 
 <p align="justify">
-The meeting starts on the evening of January 7, 2026. The hotel will start accepting guests on or after <b>3 pm</b> of Day 1. Therefore, please plan your travel accordingly.<br><br></p> 
+The meeting starts on the afternoon of January 7, 2026. Therefore, please plan your travel accordingly.<br><br></p> 
 
 
 
