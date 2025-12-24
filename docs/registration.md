@@ -14,7 +14,7 @@ Please go through this whole page carefully **before** registration and payment.
 Therefore, <b>before</b> filling out the registration form below, please complete the payment of the registration fees following the information below:</p>
 
 
-| Accomodation Type |  Standard registration* (<ins>till Nov. 30, 2025</ins>) |
+| Accomodation Type |  Standard registration |
 | ---------  | --------------------- |
 | Single occupancy |  INR 20,040 / USD 230 |
 | Double occupancy |  INR 12,820 / USD 150 |
