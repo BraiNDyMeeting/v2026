@@ -1,4 +1,4 @@
-<img src="img/Udaipurnew.jpg" width=900>
+
 
 
 # Registration
