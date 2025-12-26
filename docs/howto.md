@@ -1,4 +1,4 @@
-For individual vehicle bookings you may coordinate with our transportation vendor at the below mentioned details:
+For individual vehicle bookings outside shuttle hours you may coordinate with our transportation vendor at the below mentioned details:
 
 <b>Mr Vicky Udhani</b><br>
 VNV Tours<br>
