@@ -12,7 +12,7 @@ The meeting starts on the afternoon of January 7, 2026. Therefore, please plan y
 | ----          | ----                            |
 | 14:00 - 15:45 | Registration, Check-in, and High-Tea        |
 | 15:45 - 16:00 | Opening Comments                |
-|               | *Session Chair: Sanjay Jain* |
+|               | *Session Chair: --* |
 | 16:00 - 16:45 | Talk 1: **Viktor Jirsa**                    |
 | 16:45 - 17:30 | Talk 2: **Sitabhra Sinha**                  |
 | 17:30 - 18:00 | Sponsor Talk (Anirudh Unni)     |
@@ -48,6 +48,6 @@ The meeting starts on the afternoon of January 7, 2026. Therefore, please plan y
 |                | *Session Chair: Beena Koshy*  |
 | 09:00 - 09:45  | Talk 10: **Luiz Pessoa**                    |
 | 09:45 - 10:30  | Talk 11: **Nandini C Singh**                |
-| 10:30 - 11:30  | Panel Discussion (Moderated by Srikanth Padmala) | 
+| 10:30 - 11:30  | Panel Discussion (Moderated by Sanjay Jain) | 
 
 
