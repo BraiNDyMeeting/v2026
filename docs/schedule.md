@@ -46,8 +46,8 @@ The meeting starts on the afternoon of January 7, 2026. Therefore, please plan y
 | Time           | Event                              |
 | ---            | ---                                |
 |                | *Session Chair: Beena Koshy*  |
-| 10:00 - 10:45  | Talk 10: **Luiz Pessoa**                    |
-| 10:45 - 11:30  | Talk 11: **Nandini C Singh**                |
-| 11:30 - 12:30  | Panel Discussion (Moderated by Srikanth Padmala) | 
+| 09:00 - 09:45  | Talk 10: **Luiz Pessoa**                    |
+| 09:45 - 10:30  | Talk 11: **Nandini C Singh**                |
+| 10:30 - 11:30  | Panel Discussion (Moderated by Srikanth Padmala) | 
 
 
