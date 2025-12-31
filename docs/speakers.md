@@ -4,6 +4,8 @@
 | Name                     | Affiliation                                                                               |
 | ------------------------ | ------------------------------------------------------------------------------------------|
 | Demian Battaglia         | University of Strasbourg                                                                  |
+| Dhrubajyoti Biswas       | National Brain Research Centre/Indian Institute of Technology Kharagpur                   |
+| Dipanjan Ray             | Ashoka University                                                                         |
 | James Roberts            | Queensland Institute of Medical Research, Brisbane                                        |
 | Luiz Pessoa              | University of Maryland                                                                    |
 | Nandini Chatterjee Singh | Ashoka University                                                                         |
