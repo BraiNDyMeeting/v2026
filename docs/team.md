@@ -13,7 +13,7 @@
 ## Scientific committee
 
 - Arpan Banerjee, NBRC Gurgaon
-- Dhrubajyoti Biswas, NBRC Gurgaon
+- Dhrubajyoti Biswas, NBRC Gurgaon/IIT Kharagpur
 - Vinitha P V, NBRC Gurgaon
 - Vinsea A V Singh, NBRC Gurgaon
 - Dipanjan Roy, IIT Jodhpur
