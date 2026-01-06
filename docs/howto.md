@@ -17,5 +17,5 @@ We have arranged for a few shuttles at a time that takes into consideration ever
 
 ||From/To Railway Station|From/To Airport|
 |----|----|----|
-| 7th Jan (To Venue) | 12 NOON (45 seater) | 11:30 AM (16 seater) |
+| 7th Jan (To Venue) | 12 NOON (45 seater) | 1:00 PM (16 seater) |
 | 9th Jan (From Venue) | 1:00 PM (45 seater) | 1:00 PM (16 seater)  |
