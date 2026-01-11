@@ -15,8 +15,7 @@ theme:
 nav:
 - About: index.md
 - Schedule: schedule.md
-- Invited Speakers: speakers.md
-- Abstracts: abstracts.md
+- Invited Speakers: speakers.md 
 - Team: team.md
 - Previous Editions: previous.md
-- How to reach: howto.md
+- Conference Material: slides_pics.md
